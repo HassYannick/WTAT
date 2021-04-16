@@ -12,5 +12,4 @@ const port = 3000;
             console.log(`Sent a response : ${responseMessage}`);
     });    
 app.listen(port);
-console.log(`The server has started and is listening on port number:
-! ${port}`);
+console.log(`The server has started and is listening on port number: ${port}`);
